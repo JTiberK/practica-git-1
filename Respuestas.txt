@@ -133,21 +133,21 @@ Preguntas a responder:
 
 Ejercicio 12: Crear y Cambiar a una Nueva Rama en un Solo Paso
 Preguntas a responder:
-- eQue comando permite crear y cambiar a una nueva rama en un solo paso?
+- ¿Que comando permite crear y cambiar a una nueva rama en un solo paso?
 	git switch -c nombre_de_la_nueva_rama
 	git checkout -b nombre_de_la_nueva_rama
-- eCuel es la ventaja de usar este comando?
+- ¿Cual es la ventaja de usar este comando?
 	Eficiencia.
 	Reducción de Errores
 	Simplicidad
 	Consistencia
 	En resumen, estos comandos mejoran la productividad y la claridad en el manejo de ramas en 	Git.
 
-
+**************************
 
 Ejercicio 13: Añadir Archivos al Área de Preparación con un Comando Abreviado
 Preguntas a responder: 
-- eQue comando abreviado puedes usar para aeadir todos los cambios al erea de 
+- ¿Que comando abreviado puedes usar para aeadir todos los cambios al erea de 
 preparacien? 
 	git add . 
 - eQue ventajas tiene usar este comando en lugar de aeadir archivos 
