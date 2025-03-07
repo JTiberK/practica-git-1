@@ -183,16 +183,15 @@ Preguntas a responder:
     git merge 
 - ¿Que sucede si hay conflictos durante la fusión?
     Git te lo comunica y tienes que resolverlos manualmente
-<<<<<<< HEAD
 - Esta línea es un cambio en la rama main
-=======
-- Esta línea es un cambio en la rama conflicto-test
->>>>>>> conflicto-test 
 - ¿Como puedes resolver un conflicto en Git?
 Eligiendo una resolución en una de las ramas
 
 
-### **Ejercicio 17: Crear un Archivo `.gitignore`**
+****************************************FIN RESPUESTAS CONTESTADAS***************************
+
+
+Ejercicio 17: Crear un Archivo `.gitignore`
 Crea un archivo `.gitignore` para excluir ciertos tipos de archivos de ser 
 rastreados por Git.
 
