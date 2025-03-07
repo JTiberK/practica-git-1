@@ -176,8 +176,20 @@ Preguntas a responder:
 
 Ejercicio 16: Resolver Conflictos entre Ramas 
 Preguntas a responder:
-- ¿Que ocurre cuando Git detecta un conflicto durante la fusión?  
+- ¿Que ocurre cuando Git detecta un conflicto durante la fusión?
+Ejercicio 15: Fusionar Ramas
+Preguntas a responder:
+- ¿Que comando usas para fusionar ramas en Git?
+    git merge 
+- ¿Que sucede si hay conflictos durante la fusión?
+    Git te lo comunica y tienes que resolverlos manualmente
+<<<<<<< HEAD
+- Esta línea es un cambio en la rama main
+=======
+- Esta línea es un cambio en la rama conflicto-test
+>>>>>>> conflicto-test 
 - ¿Como puedes resolver un conflicto en Git?
+Eligiendo una resolución en una de las ramas
 
 
 ### **Ejercicio 17: Crear un Archivo `.gitignore`**
