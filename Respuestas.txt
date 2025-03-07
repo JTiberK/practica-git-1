@@ -168,8 +168,9 @@ Ejercicio 15: Fusionar Ramas
 Preguntas a responder:
 - ¿Que comando usas para fusionar ramas en Git?
 	git merge 
-- ¿Que sucede si hay conflictos durante la fusien?
+- ¿Que sucede si hay conflictos durante la fusión?
 	Git te lo comunica y tienes que resolverlos manualmente
+	- Esta línea es un cambio en la rama main
 
 
 Ejercicio 16: Resolver Conflictos entre Ramas 
