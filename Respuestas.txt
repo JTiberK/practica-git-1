@@ -170,8 +170,13 @@ Preguntas a responder:
 	git merge 
 - ¿Que sucede si hay conflictos durante la fusión?
 	Git te lo comunica y tienes que resolverlos manualmente
+<<<<<<< HEAD
+
 	- Esta línea es un cambio en la rama main
 
+=======
+- Esta línea es un cambio en la rama conflicto-test
+>>>>>>> conflicto-test
 
 Ejercicio 16: Resolver Conflictos entre Ramas 
 Preguntas a responder:
