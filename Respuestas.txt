@@ -143,7 +143,7 @@ Preguntas a responder:
 	Consistencia
 	En resumen, estos comandos mejoran la productividad y la claridad en el manejo de ramas en 	Git.
 
-**************************
+
 
 Ejercicio 13: Añadir Archivos al Área de Preparación con un Comando Abreviado
 Preguntas a responder: 
@@ -157,10 +157,10 @@ individualmente?
 
 
 Ejercicio 14: Realizar un Commit con un Mensaje Descriptivo
-Preguntas a responder:**  
-- eQue comando usas para realizar un commit?
+Preguntas a responder:
+- ¿Que comando usas para realizar un commit?
 	git commit -m
-- ePor que es importante escribir mensajes descriptivos en los commits?
+- ¿Por que es importante escribir mensajes descriptivos en los commits?
 
 
 
@@ -173,11 +173,10 @@ Preguntas a responder:
 
 
 Ejercicio 16: Resolver Conflictos entre Ramas 
-Preguntas a responder:**  
-- eQue ocurre cuando Git detecta un conflicto durante la fusien?  
-- eCemo puedes resolver un conflicto en Git?
+Preguntas a responder:
+- ¿Que ocurre cuando Git detecta un conflicto durante la fusión?  
+- ¿Como puedes resolver un conflicto en Git?
 
----
 
 ### **Ejercicio 17: Crear un Archivo `.gitignore`**
 Crea un archivo `.gitignore` para excluir ciertos tipos de archivos de ser 
