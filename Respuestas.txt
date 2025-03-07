@@ -170,7 +170,7 @@ Preguntas a responder:
 	git merge 
 - ¿Que sucede si hay conflictos durante la fusien?
 	Git te lo comunica y tienes que resolverlos manualmente
-
+- Esta línea es un cambio en la rama conflicto-test
 
 Ejercicio 16: Resolver Conflictos entre Ramas 
 Preguntas a responder:
